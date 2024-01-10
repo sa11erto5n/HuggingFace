@@ -9,6 +9,8 @@ An open source image generator based on the HuggingFace and the playground APIs 
 
 [2] Sign in to <a href="https://huggingface.co/">HuggingFace</a> and get an ACCESS TOKEN
 <br>
+
 [3] Rename the ```.env-example``` to ```.env``` and paste your access token there
 <br>
+
 [4] Run the ```python main.py``` and enjoy
