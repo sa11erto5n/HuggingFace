@@ -4,4 +4,4 @@ An image generator based on the HuggingFace and the playground APIs that takes t
 
 ## How to use
 
-1. Clone the repo using the '''git clone https://github.com/sa11erto5n/HuggingFace.git'''
+1. Clone the repo using the ```git clone https://github.com/sa11erto5n/HuggingFace.git```
