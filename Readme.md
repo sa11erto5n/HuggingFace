@@ -4,6 +4,10 @@ An open source image generator based on the HuggingFace and the playground APIs 
 
 ## How to use
 
-[1] Clone the repo using the ```git clone https://github.com/sa11erto5n/HuggingFace.git```
+[1] Clone the repo using the ```git clone https://github.com/sa11erto5n/HuggingFace.git``` then run ```pip install -r requirements.txt``` in the terminal
 <br>
 [2] Sign in to <a href="https://huggingface.co/">HuggingFace</a> and get an ACCESS TOKEN
+<br>
+[3] Rename the ```.env-example``` to ``.env``` and paste your access token there
+<br>
+[4] Run the ```python main.py``` and enjoy
